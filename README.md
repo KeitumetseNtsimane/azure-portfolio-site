@@ -13,6 +13,15 @@ Check out the live site here:
 
 ---
 
+## ☁️ Azure Setup
+
+Here's a screenshot of the Azure Blob Storage setup used to host this static website:
+
+![Azure Containers](Images/azure-storage-containers.png)
+
+
+---
+
 ## 🗂️ Project Layout
 
 
