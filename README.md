@@ -22,6 +22,7 @@ Here's a screenshot of the Azure Blob Storage setup used to host this static web
 
 ---
 
+
 ## 🗂️ Project Layout
 
 
